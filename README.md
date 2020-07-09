@@ -1,4 +1,4 @@
-## Hey there 🥳
+# Hey there 🥳
 
 I'm Farhia and I'm a software developer from Stockholm, Sweden. I like to experiment and learn new things...So that's what you're going to see me doing here 👩🏾‍💻
 
