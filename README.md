@@ -9,4 +9,4 @@ I'm Farhia and I'm a software developer from Stockholm, Sweden. I like to experi
  
  ⚡ **Fun fact ...**
  
-I have a beautiful cat named Alaska. Follow me on [twitter](www.twitter.com/Farhia_MM) to see cute pics 😸
+I have a beautiful cat named Alaska. Follow me on [twitter](https://twitter.com/Farhia_MM) to see cute pics 😸
