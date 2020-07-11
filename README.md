@@ -2,10 +2,11 @@
 
 I'm Farhia and I'm a software developer from Stockholm, Sweden. I like to experiment and learn new things...So that's what you're going to see me doing here 👩🏾‍💻
 
-🌱 **I’m currently learning ...**
+🌱 **I’m currently focusing on ...**
 
-- Vue.js
+- Learning Vue.js
 - Contributing to open source
+- Sharpening my Javascript skills 
  
  ⚡ **Fun fact ...**
  
