@@ -8,6 +8,3 @@ My name is Farhia and I'm a software developer from Stockholm, Sweden. I like to
 - Contributing to open source
 - Sharpening my Javascript skills 
  
- ⚡ **Fun fact ...**
- 
-I have a beautiful cat named Alaska. Follow me on [twitter](https://twitter.com/Farhia_MM) to see cute pics 😸
